@@ -35,4 +35,3 @@ cd skills/kicad-schematic/template && python3 ../scripts/check.py example.kicad_
 
 Генераторы схем вызывают `schlib.py` по пути. В проекте платы либо путь
 до `hw-skills/skills/...`, либо симлинк `skills -> ~/Proj/1.Project/hw-skills/skills`
-(так подключён Smart_Pole).
